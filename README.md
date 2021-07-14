@@ -8,3 +8,9 @@ Currently some hiccups exist such as:
 
 ## Installation
 Git clone or download the repository, CD into the working direcotry, run `npm i` followed by `node .`
+
+## LICENSE 
+
+This is licensed under the 'Anyone But BlueDrake42' license. If you wish to view it, go to [LICENSE](https://github.com/notbluu/BlueScrape/blob/main/LICENSE.md).
+
+Furthermore, this repository is legal under DMCA and any takedown claims will be challenged.
